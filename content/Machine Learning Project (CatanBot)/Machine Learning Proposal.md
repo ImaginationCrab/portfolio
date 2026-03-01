@@ -1,4 +1,5 @@
-Introduction
+By Henry Jiang, Jeffrey Chen, Alexander Ge, Tracy Yang, Ray Dai
+1. Introduction
 We propose creating a convolutional neural network based model for the purpose of playing the game of Catan. By leveraging the feature-extraction capabilities of a CNN in tandem with other machine learning methods, we seek to accurately interpret complex probabilistic board states and win consistently with Catanbot. 
 
 1.1. Literature Review
@@ -29,24 +30,3 @@ MR. MUCHO BUCHO Game Data (2025) 43,947 anonymized 4-player Catan games. https:/
 Nagel, L. (2021). Analysis of ‘The Settlers of Catan’ Using Markov Chains.  https://repository. tcu.edu/entities/publication/8c4915c9-0127-458d-a53c-13482fdbefa6
 Silver, D. et al, (2017). Mastering the game of Go without human knowledge. https://www.nature .com/articles/nature24270
 Szita, I. et al, (2009). Monte-Carlo Tree Search in Settlers of Catan. https://link.springer.com/ chapter/ 10.1007/978-3-642-12993-3_3
-
-
-Gantt Chart:
-
-Contributions:
-
-Name
-Proposal Contributions
-Jeffrey Chen
-Obtaining references, 
-Ray Dai
-
-
-Alex Ge
-Website hosting
-
-Henry Jiang
-
-
-Tracy Yang
-
