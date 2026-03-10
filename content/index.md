@@ -2,7 +2,7 @@
 title: Alex's Portfolio
 ---
 # Hi, I'm Alex 
-This is a collection of some of my work! Some of these are school projects, and as such due to certain policies, I am not able to share the full files of the projects. But for all my personal projects, you can download them and check them out for yourselves!
+This is a collection of some of my work! Some of these are school projects, and as such due to certain policies, I am not able to share the full files of the projects. But for all my personal projects, you can download them and check them out for yourselves! I am still uploading all my content, so not everything is on here.
 
 
 ---
