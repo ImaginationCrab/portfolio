@@ -17,9 +17,7 @@ A collection of programs I've built and rebuilt over the years
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [[Project One]] | Short description of what it does | [GitHub](#) |
-| [[Project Two]] | Short description of what it does | [GitHub](#) |
-| [[Project Three]] | Short description of what it does | [Demo](#) |
+| [[Steganography Application]] | Hiding photos with bit manipulation | [Link](https://imaginationcrab.github.io/portfolio/Personal-Projects/Steganography-Application) |
 
 </div>
 
