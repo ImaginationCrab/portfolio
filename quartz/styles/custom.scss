@@ -1,3 +1,25 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* Two-column layout for photos and text */
+.two-column {
+  display: flex;
+  flex-direction: column; /* Stacks vertically on smaller screens */
+  gap: 2rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+
+  /* Switches to row layout on desktop */
+  @media (min-width: 768px) {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+}
+
+.col-left {
+  flex: 1; /* Allocates 50% of the space to the image */
+}
+
+.col-right {
+  flex: 1; /* Allocates 50% of the space to the text */
+}
