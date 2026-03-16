@@ -26,4 +26,4 @@ I have built this program 3 times, twice in Java and once in python. I built thi
 In cybersecurity, and many other fields which require critical information to be shared but not known, this is used often to pass information around that is also available to the public. Obviously, this program is very simple version of a real steganography program, but still a very interesting project to build, as it involves many techniques that can be applied to other projects.
 
 
-I will have a video and some photos to showcase the application further.
+I will have a video and some photos to showcase the application further. I also need to compile it on x86 architecture so I can make a release for it.
