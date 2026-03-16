@@ -11,7 +11,8 @@
 Test Test
 
 </div>
-
+</div>
+<div class="two-column">
 
 <div class="col-left">
 
@@ -24,7 +25,8 @@ Test Test
 ![[100_1102.jpg]]
 
 </div>
-
+</div>
+<div class="two-column">
 <div class="col-left">
 
 ![[100_1082.jpg]]
@@ -36,7 +38,8 @@ Test Test
 Test Test
 
 </div>
-
+</div>
+<div class="two-column">
 <div class="col-left">
 
 ![[IMG_2643 1.jpg]]
@@ -48,7 +51,8 @@ Test Test
 ![[IMG_6458.jpg]]
 
 </div>
-
+</div>
+<div class="two-column">
 <div class="col-left">
 
 ![[IMG_6632.jpg]]
@@ -61,5 +65,6 @@ Test Test
 
 </div>
 </div>
+
 
 ![[IMG_6673.jpg]]
