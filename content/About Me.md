@@ -39,7 +39,7 @@ My other hobbies include building computers, building keyboards, video editing, 
 
 </div>
 </div>
-# More photos of my snowboarding obsession
+--- 
 <div class="two-column">
 <div class="col-left">
 
