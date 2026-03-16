@@ -13,11 +13,10 @@ This is a collection of some of my work! Some of these are school projects, and 
 
 ## Personal Projects
 
-A collection of programs I've built and rebuilt over the years
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| [[Steganography Application]] | Hiding photos with bit manipulation | [Github ](https://github.com/ImaginationCrab/SteganographyApp)|
+| [[Steganography Application]] | Hiding photos with bit manipulation | [Github](https://github.com/ImaginationCrab/SteganographyApp)|
 
 </div>
 
@@ -25,13 +24,11 @@ A collection of programs I've built and rebuilt over the years
 
 ## School Projects
 
-School projects that I learned quite a bit from
 
-| Project | Course | Links |
-|---------|--------|-------|
-| [[Assignment One]] | Course Name | [GitHub](#) |
-| [[Assignment Two]] | Course Name | [GitHub](#) |
-| [[Capstone Project]] | Course Name | [Report](#) |
+| Project | Description |
+|---------|--------|
+| [[Computer Architecture]] | Low-level architecture courses |
+| [[Machine Learning, Artificial Intelligence]] | Machine Learning and AI courses |
 
 </div>
 
