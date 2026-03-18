@@ -37,6 +37,7 @@ Gallery
 
 ![[Screenshot 2026-03-18 at 2.11.23 PM.png]]
 
+
 </div>
 
 <div class="col-right">
@@ -49,7 +50,7 @@ Gallery
 
 <div class="col-left">
 
-
+This is what the resulting image would look like if 7 bits were used to hide the photo
 
 </div>
 
@@ -68,6 +69,8 @@ Gallery
 </div>
 
 <div class="col-right">
+
+
 
 </div>
 </div>
