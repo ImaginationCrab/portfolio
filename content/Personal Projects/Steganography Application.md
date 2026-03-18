@@ -46,7 +46,9 @@ Gallery
 
 </div>
 </div>
+
 ---
+
 <div class="two-column">
 
 <div class="col-left">
