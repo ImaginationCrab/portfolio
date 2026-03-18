@@ -35,7 +35,7 @@ Gallery
 
 <div class="col-left">
 
-![[Screenshot 2026-03-18 at 2.11.23 PM.png]]
+![[Screenshot 2026-03-18 at 2.11.08 PM.png]]
 
 
 </div>
@@ -64,68 +64,70 @@ This is what the resulting image would look like if 7 bits were used to hide the
 
 <div class="col-left">
 
-![[Screenshot 2026-03-18 at 2.11.08 PM.png]]
-
-</div>
-
-<div class="col-right">
-
-
-
-</div>
-</div>
-<div class="two-column">
-
-<div class="col-left">
-
-
-
-</div>
-
-<div class="col-right">
-
 ![[Screenshot 2026-03-18 at 2.12.12 PM.png]]
 
 </div>
+
+<div class="col-right">
+
+This is what the unencrypted photo would look like due to the scrambled bits
+
+</div>
 </div>
 <div class="two-column">
 
 <div class="col-left">
+
+After unscrambling the bits, if we only extract 2 bits this would be the image
+
+</div>
+
+<div class="col-right">
 
 ![[Screenshot 2026-03-18 at 2.12.28 PM.png]]
 
 </div>
-
-<div class="col-right">
-
-</div>
 </div>
 <div class="two-column">
 
 <div class="col-left">
-
-
-
-</div>
-
-<div class="col-right">
 
 ![[Screenshot 2026-03-18 at 2.12.05 PM.png]]
 
 </div>
+
+<div class="col-right">
+
+This is what the photo looks like with a full 3-bit decoding and bit unscrambling
+
+</div>
 </div>
 <div class="two-column">
 
 <div class="col-left">
 
+The encrypted photo with a bit-scramble
+
+</div>
+
+<div class="col-right">
+
 ![[nature photo encrypted-3bit.png]]
+
+</div>
+</div>
+<div class="two-column">
+
+<div class="col-left">
+
+![[decoded.png]]
 
 
 </div>
 
 <div class="col-right">
 
-The encrypted photo with a bit-scramble
+The fully decoded photo from the encrypted photo
 
 </div>
 </div>
