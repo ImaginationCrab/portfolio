@@ -27,6 +27,7 @@ In cybersecurity, and many other fields which require critical information to be
 
 
 I need to compile it on x86 architecture so I can make a release for it.
+
 Gallery
 ---
 
@@ -40,6 +41,8 @@ Gallery
 
 <div class="col-right">
 
+2 nature photos being manipulated
+
 </div>
 </div>
 <div class="two-column">
@@ -51,7 +54,9 @@ Gallery
 </div>
 
 <div class="col-right">
+
 ![[Screenshot 2026-03-18 at 2.11.23 PM.png]]
+
 </div>
 </div>
 <div class="two-column">
@@ -75,7 +80,9 @@ Gallery
 </div>
 
 <div class="col-right">
+
 ![[Screenshot 2026-03-18 at 2.12.12 PM.png]]
+
 </div>
 </div>
 <div class="two-column">
@@ -99,18 +106,23 @@ Gallery
 </div>
 
 <div class="col-right">
+
 ![[Screenshot 2026-03-18 at 2.12.05 PM.png]]
+
 </div>
 </div>
 <div class="two-column">
 
 <div class="col-left">
+
 ![[nature photo encrypted-3bit.png]]
 
 
 </div>
 
 <div class="col-right">
+
 The encrypted photo with a bit-scramble
+
 </div>
 </div>
