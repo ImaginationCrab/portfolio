@@ -63,7 +63,9 @@ This is what the resulting image would look like if 7 bits were used to hide the
 
 </div>
 </div>
+
 ---
+
 <div class="two-column">
 
 <div class="col-left">
@@ -78,7 +80,9 @@ This is what the unencrypted photo would look like due to the scrambled bits
 
 </div>
 </div>
+
 ---
+
 <div class="two-column">
 
 <div class="col-left">
@@ -93,7 +97,9 @@ After unscrambling the bits, if we only extract 2 bits this would be the image
 
 </div>
 </div>
+
 ---
+
 <div class="two-column">
 
 <div class="col-left">
@@ -108,7 +114,9 @@ This is what the photo looks like with a full 3-bit decoding and bit unscramblin
 
 </div>
 </div>
+
 ---
+
 <div class="two-column">
 
 <div class="col-left">
@@ -123,7 +131,9 @@ The encrypted photo with a bit-scramble
 
 </div>
 </div>
+
 ---
+
 <div class="two-column">
 
 <div class="col-left">
