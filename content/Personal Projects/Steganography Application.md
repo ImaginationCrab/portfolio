@@ -19,10 +19,15 @@ Manipulation Techniques:
 FAQ:
 
 * What is steganography?
+
 Steganography is the practice of concealing information, in this program you are able to "hide" one image inside of another
+
 * Why do you say built and rebuilt?
+
 I have built this program 3 times, twice in Java and once in python. I built this for the first time at a very early stage of my life, which if you wish to know, you're going to have to ask me yourself.
+
 * What is this useful for?
+
 In cybersecurity, and many other fields which require critical information to be shared but not known, this is used often to pass information around that is also available to the public. Obviously, this program is very simple version of a real steganography program, but still a very interesting project to build, as it involves many techniques that can be applied to other projects.
 
 
