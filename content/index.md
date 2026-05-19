@@ -29,6 +29,8 @@ This is a collection of some of my work! Some of these are school projects, and 
 |---------|--------|
 | [[Computer Architecture]] | Low-level architecture courses |
 | [[Machine Learning, Artificial Intelligence]] | Machine Learning and AI courses |
+| [[CatanBot.pdf]] | Custom Artificial Intelligence built to play Catan |
+| [[HTSync]] | Capstone startup |
 
 </div>
 
@@ -39,10 +41,10 @@ This is a collection of some of my work! Some of these are school projects, and 
 # In progress
 These projects are currently being worked on, as of Summer 2026
 
-| Project                        | Phase     |
-| ------------------------------ | --------- |
-| TTNN                           | Build     |
-| Capstone - HTS code Identifier | Marketing |
+| Project                                                                      | Phase     |
+| ---------------------------------------------------------------------------- | --------- |
+| TTNN                                                                         | Build     |
+| [HTSync](https://imaginationcrab.github.io/portfolio/School-Projects/HTSync) | Marketing |
 
 ---
 # Leetcodes
