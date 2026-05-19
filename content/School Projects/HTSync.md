@@ -4,8 +4,7 @@ description: A web app that helps importers classify products and estimate dutie
 date: 2026-05-19
 tags:
 ---
-
-# HTSync
+# [HTSync](https://htsync.us.kg/)
 
 > Classify with confidence. A capstone project that turns a 4,000-page tariff manual into a search box.
 
