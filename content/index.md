@@ -37,12 +37,12 @@ This is a collection of some of my work! Some of these are school projects, and 
 ---
 
 # In progress
-These projects are currently being worked on, as of Spring 2026
+These projects are currently being worked on, as of Summer 2026
 
-| Project                                 | Phase    |
-| --------------------------------------- | -------- |
-| [[Machine Learning Project - CatanBot]] | Training |
-| Capstone - HTS code Identifier          | Sprint 4 |
+| Project                        | Phase     |
+| ------------------------------ | --------- |
+| TTNN                           | Build     |
+| Capstone - HTS code Identifier | Marketing |
 
 ---
 # Leetcodes
