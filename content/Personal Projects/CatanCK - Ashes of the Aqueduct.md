@@ -1,5 +1,5 @@
 ---
-title: Catan - Ashes of the Aqueduct
+title: CatanCK - Ashes of the Aqueduct
 description: A multiplayer Cities & Knights implementation with a Python rules engine and a Unity 3D client.
 tags:
   - project
@@ -12,7 +12,7 @@ repo: Private Repo, request access with me directly
 draft: false
 ---
 
-# CatanCK
+# CatanCK - Ashes of the Aqueduct
 
 A from-scratch multiplayer implementation of **Settlers of Catan: Cities & Knights** — the expansion nobody wants to implement, because the rule interactions are genuinely nasty. Barbarian tracks, progress card decks, knight activation/promotion, city walls, the metropolis race, and the way all of those quietly modify the base game's turn structure.
 
