@@ -1,5 +1,5 @@
 ---
-title: CatanCK
+title: Catan - Ashes of the Aqueduct
 description: A multiplayer Cities & Knights implementation with a Python rules engine and a Unity 3D client.
 tags:
   - project
